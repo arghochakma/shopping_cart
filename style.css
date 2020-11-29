@@ -1,5 +1,5 @@
 body{
-	background: #fff;
+	background: linear-gradient(to bottom, rgb(105, 104, 104), rgb(128, 129, 113));
 }
 .cart{
 	margin: 100px 0;
